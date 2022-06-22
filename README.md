@@ -1,4 +1,4 @@
 i'm a back-end developer
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?iscoAdams=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscoAdams&show_icons=true&theme=nord)
