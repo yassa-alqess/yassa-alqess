@@ -1,8 +1,11 @@
 
-<h1 align="center">welcome abroad 🚀</h1>
-<h3 align="center">here is your back-end developer</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscoAdams&show_icons=true&theme=nord)
+{
+  "name" : "Yassa Alkis",
+  "alias": "isco Adams",
+  "education": "cs student",
+  "stack": "Mern stack developr"
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
