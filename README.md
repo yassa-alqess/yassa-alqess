@@ -1,6 +1,6 @@
 <h3>about me:</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=3000&multiline=true&lines=%22Name%22+%3A+%22Yassa+Alkis%22%2C;%22stack%22%3A+%22MERN+stack+developr%22%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=3000&multiline=true&lines=%22Name%22+%3A+%22Yassa+Alkis%22%2C;%22stack%22%3A+%22MERN+Stack+developr%22%2C)](https://git.io/typing-svg)
 
 
 
