@@ -1,24 +1,56 @@
-<h3>about me:</h3>
+<h3>About me:</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=3000&multiline=true&lines=%22Name%22+%3A+%22Yassa+Alkis%22%2C;%22stack%22%3A+%22MERN+Stack+developr%22%2C)](https://git.io/typing-svg)
 
 
 
-<h3 align="left">Connect me via:</h3>
-<p align="left">
-<a href="https://codepen.io/iscoadams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iscoadams" height="20" width="30" /></a>
-<a href="https://twitter.com/isco_adams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isco_adams" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/yassa-alkis-33810517a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassa-alkis-33810517a" height="20" width="30" /></a>
-<a href="https://stackoverflow.com/users/isco adams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="isco adams" height="20" width="30" /></a>
-<a href="https://www.codechef.com/users/isco_adams" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="isco_adams" height="20" width="30" /></a>
-<a href="https://codeforces.com/profile/isco_adams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="isco_adams" height="20" width="30" /></a>
-<a href="https://www.leetcode.com/iscoadams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iscoadams" height="20" width="30" /></a>
-<a href="https://discord.gg/isco#6330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isco#6330" height="20" width="30" /></a>
-</p>
+ <h3 align="left">Reach-me via:</h3>
+  <p align="left">
+    <a href="https://linkedin.com/in/yassa-alkis-33810517a" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="yassa-alkis-33810517a"
+        height="20"
+        width="30"
+    /></a>
+    <a href="https://twitter.com/isco_adams" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+        alt="isco_adams"
+        height="20"
+        width="30"
+    /></a>
+    <a href="https://discord.gg/isco#6330" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+        alt="isco#6330"
+        height="20"
+        width="30"
+    /></a>
+    <a href="https://www.leetcode.com/iscoadams" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+        alt="iscoadams"
+        height="20"
+        width="30"
+    /></a>
+    <a href="https://codeforces.com/profile/isco_adams" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+        alt="isco_adams"
+        height="20"
+        width="30"
+    /></a>
+  </p>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
@@ -153,8 +185,6 @@
         />
     </a>
 </p>
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iscoAdams&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
